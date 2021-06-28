@@ -7,7 +7,7 @@ Podcastr is an application developed at rocketseat's Next Level Week 5. It's a p
 #Technologies used
 <ul>
 <li>HTML</li>
-<li>Javascript</li>
+<li>Typescript</li>
 <li>SASS</li>
 <li>NextJs</li>
 <li>Axios</li>
